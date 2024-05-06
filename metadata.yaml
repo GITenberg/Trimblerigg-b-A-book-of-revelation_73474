@@ -1,0 +1,50 @@
+_repo: Trimblerigg-b-A-book-of-revelation_73474
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Kapp, Edmond X. (Edmond Xavier)
+    aliases:
+    - Kapp, Edmond Xavier
+    - Kapp
+    birthdate: 1890
+    deathdate: 1978
+    gutenberg_agent_id: '57088'
+    url: http://www.gutenberg.org/2009/agents/57088
+    wikipedia: https://en.wikipedia.org/wiki/Edmond_Xavier_Kapp
+creator:
+  author:
+    agent_name: Housman, Laurence
+    aliases:
+    - Housman, Lawrence
+    - Bunny, Benjamin
+    birthdate: 1865
+    deathdate: 1959
+    gutenberg_agent_id: '1218'
+    url: http://www.gutenberg.org/2009/agents/1218
+    wikipedia: https://en.wikipedia.org/wiki/Laurence_Housman
+description: Some book reviews from the 1920's identify protagonist Jonathan Trimblerigg
+  as a depiction of David Lloyd George (U.K. prime minister from 1916-1922).
+gutenberg_issued: '2024-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73474'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/uc1.b3324357
+pgterms:marc905: 20211027105929housman
+pgterms:marc906: '1924'
+pgterms:marc907: GB
+production_note: Tim Lindell, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aUnited Kingdom :$bJonathan Cape Ltd, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Satire'
+- !lcsh 'Clergy -- Fiction'
+- !lcsh 'Romans à clef'
+- !lcc 'PR'
+- GITenberg
+title: 'Trimblerigg : $b A book of revelation'
+url: http://www.gutenberg.org/ebooks/73474
