@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '57088'
     url: http://www.gutenberg.org/2009/agents/57088
     wikipedia: https://en.wikipedia.org/wiki/Edmond_Xavier_Kapp
+covers:
+- cover_type: archival
+  image_path: 73474-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Housman, Laurence
@@ -24,6 +27,8 @@ creator:
     wikipedia: https://en.wikipedia.org/wiki/Laurence_Housman
 description: Some book reviews from the 1920's identify protagonist Jonathan Trimblerigg
   as a depiction of David Lloyd George (U.K. prime minister from 1916-1922).
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73474#Trimblerigg-b-A-book-of-revelation
 gutenberg_issued: '2024-04-27'
 gutenberg_type: Text
 identifiers:
